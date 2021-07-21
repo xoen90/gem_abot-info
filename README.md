@@ -44,7 +44,9 @@ current_quote: Текущая стоимость позиции, $
 buy_date: Дата покупки
 timer: Время с покупки
 current_profit: Текущая прибыль
-potential_profit: Потенциальная прибыл
+potential_profit: Потенциальная прибыль
+current_price_perc_of_order: Текущая цена (подсчет процента от цены продажи)
+max_price_perc_of_order: Максимальная цена за 24ч (подсчет процента от цены продажи)
 ```
 Пример:
 abot-info --db_path /home/ubuntu/abot/abot_db.db --symbols BTCUSDT,ETHUSDT,BNBUSDT --template default --del buy_date
