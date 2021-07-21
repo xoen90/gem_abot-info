@@ -49,6 +49,16 @@ potential_profit: Потенциальная прибыл
 Пример:
 abot-info --db_path /home/ubuntu/abot/abot_db.db --symbols BTCUSDT,ETHUSDT,BNBUSDT --template default --del buy_date
 
+6. Полезные команды
+Обновления скрипта:
+```
+gem update abot-info
+```
+Удалениe:
+```
+gem uninstall abot-info
+```
+7. Для удобства использования рекомендуется запускать в отдельном screen окне.
 
 Примечание: скрипт тестировался на 90% в торговле к USDT и при торговле в паре к другим монетам возможены неточности.
 Баг репорты и предложения по улучшению принимаются в телеграм @xoen88
