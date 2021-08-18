@@ -67,4 +67,4 @@ gem uninstall abot-info
 
 Если понравился проект:\
 Кошелек на Binance BEP20(BSC)\
-0x051c872735dfefee9ce51a1df7f9c01c087bd303
+0x48e9bcb324a4a8c24b3394b830a6aae9ade3f0d0
